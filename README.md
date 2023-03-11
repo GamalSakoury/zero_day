@@ -1,4 +1,4 @@
 ### First Repo from my local computer
-using VB, Vagrant
-VM is Ubuntu distro
+<p>using VB, Vagrant.</p>
+VM is Ubuntu distro.
 OS is windows.
